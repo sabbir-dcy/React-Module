@@ -1,0 +1,49 @@
+.cart {
+  background-color: hsl(223, 14%, 10%);
+  color: white;
+  padding: 1rem;
+  position: sticky;
+  margin-top: 5rem;
+  top: 0;
+  height: 40rem;
+  border-radius: .5rem;
+}
+
+.cart h1 {
+  margin: 1.5rem 0 3rem 0;
+  text-align: center;
+  font-size: 1.5rem;
+}
+
+.cart p {
+  margin: 1rem 0;
+}
+
+.btn-cart-container {
+  margin-top: 3rem;
+}
+.btn-cart {
+  width: 90%;
+  display: block;
+  margin: 1rem auto;
+}
+
+
+.btn.btn-cart span {
+  transition: .2s ease;
+  display: block;
+}
+
+.btn.btn-cart:hover span {
+  transform: translate(5%);
+}
+.btn.btn-clear-cart {
+  background-color: hsl(0, 0%, 95%);
+  border-radius: 0;
+  color: hsl(210, 13%, 14%);
+}
+.btn.btn-review-order {
+  color: hsl(210, 13%, 14%);
+  background-color: #ff9900;
+  border-radius: 0;
+}
