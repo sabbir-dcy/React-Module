@@ -1,0 +1,27 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.country {
+  background-color: lightgreen;
+  padding: 1rem;
+  border-radius: .6rem;
+  color: rgb(44, 44, 44);
+  transition: .2s ease-in-out;
+}
+
+.country:nth-child(2n-1) {
+  background-color: lightblue;
+
+}
+
+.country:hover {
+  transform: scale(1.05);
+  /* transform: rotate3d(0,1,0,180deg); */
+}
+.flags {
+  width: 15rem;
+  height: 10rem;
+}
