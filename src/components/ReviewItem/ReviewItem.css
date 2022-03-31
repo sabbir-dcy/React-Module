@@ -1,0 +1,30 @@
+.review-item {
+  border: 2px solid rgb(190, 190, 190);
+  display: grid;
+  grid-template-columns: 1fr 4fr 1fr;
+  gap:2rem;
+  align-items: center;
+  margin: 1rem 2rem;
+  padding: 1rem;
+}
+
+.del-btn {
+  width: 55px;
+  height: 55px;
+  border: none;
+  background-color: rgb(253, 171, 171);
+  color:white;
+  cursor: pointer;
+  border-radius: 50%;
+  font-size: inherit;
+}
+
+.del-icon {
+  color :red;
+  font-size: 2rem;
+}
+
+.thumbnail img {
+  width: 100%;
+  display: block;
+}
