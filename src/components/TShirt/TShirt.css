@@ -1,0 +1,9 @@
+.t-shirt {
+  min-height: 500px;
+  border: 1px solid lightgray;
+  border-radius: .5rem;
+}
+
+.t-shirt img {
+  width: 100%;
+}

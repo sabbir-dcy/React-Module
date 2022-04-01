@@ -1,0 +1,58 @@
+[
+  {
+    "_id": "623853b2614ad5aba311fdd1",
+    "index": 0,
+    "price": 14,
+    "picture": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/ccc669c2133345699c07ae2100f54d36_9366/Amplifier_Short_Sleeve_Badge_of_Sport_Tee_Blue_HZ1473_01_laydown.jpg",
+    "name": "Just Chill",
+    "gender": "Just Chill"
+  },
+  {
+    "_id": "623853b2578e9e6ad1ae0dd5",
+    "index": 1,
+    "picture": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/14107bb4877d47509c39ae2100f55083_9366/Amplifier_Short_Sleeve_Badge_of_Sport_Tee_Yellow_HZ1474_01_laydown.jpg",
+    "name": "Keep Coding",
+    "price": 27,
+    "gender": "Keep Coding"
+  },
+  {
+    "_id": "623853b21fb149d2ee7b76c7",
+    "index": 2,
+    "picture": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/91a10219a8b8447f8573ab760107708b_9366/Mexico_Away_Jersey_White_GC7940_01_laydown.jpg",
+    "name": "Black",
+    "price": 24,
+    "gender": ""
+  },
+  {
+    "_id": "623853b2e91c8de578c9245e",
+    "index": 3,
+    "picture": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/14107bb4877d47509c39ae2100f55083_9366/Amplifier_Short_Sleeve_Badge_of_Sport_Tee_Yellow_HZ1474_01_laydown.jpg",
+    "name": "Mix Yellow",
+    "price": 14,
+    "gender": "Mix Yellow"
+  },
+  {
+    "_id": "623853b2239582e48409ccc6",
+    "index": 4,
+    "price": 34,
+    "picture": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/ccc669c2133345699c07ae2100f54d36_9366/Amplifier_Short_Sleeve_Badge_of_Sport_Tee_Blue_HZ1473_01_laydown.jpg",
+    "name": "Bachelor",
+    "gender": "male"
+  },
+  {
+    "_id": "623853b2cdda0d5bc294f791",
+    "index": 5,
+    "picture": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/fd1467e2ea7045a6bb70ad9f0137cf5d_9366/Manchester_United_Player_Tee_Blue_HN8093_01_laydown.jpg",
+    "name": "Right Price",
+    "price": 141,
+    "gender": "male"
+  },
+  {
+    "_id": "623853b2736f19fd4eb8d44a",
+    "index": 6,
+    "price": 41,
+    "picture": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/91a10219a8b8447f8573ab760107708b_9366/Mexico_Away_Jersey_White_GC7940_01_laydown.jpg",
+    "name": "Black Skull",
+    "gender": "female"
+  }
+]

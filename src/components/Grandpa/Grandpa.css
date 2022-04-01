@@ -1,0 +1,13 @@
+.grandpa-child,
+.grandpa-child div {
+  border: 2px solid goldenrod;
+  margin: 10px 5px;
+  padding: 10px;
+  display: flex;
+}
+
+.grandpa {
+  border: 2px solid goldenrod;
+  margin: 10px 5px;
+  padding: 10px;
+}
