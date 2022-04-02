@@ -1,0 +1,27 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  color:white
+}
+body {
+  background: rgb(53, 53, 53);
+}
+.container {
+  padding: 1rem;
+  width: 90%;
+  margin: 1rem auto;
+  background-color: #0e5d7d;
+  border-radius: .5rem;
+}
+
+.counter {
+  display: flex;
+  justify-content: space-around;
+}
+
+button {
+  padding: .5rem;
+  background-color: cadetblue;
+  border: none;
+}
