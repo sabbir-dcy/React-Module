@@ -8,6 +8,14 @@ export const CountContext = createContext()
 
 function App() {
   const [count, setCount] = useState(0)
+  /**
+  to pass multiple values
+  
+  const value = {count, setCount, otherObj}
+  instruction:
+  pass this value as provider value 
+  distructre as object in consumer component
+  */
   return (
     <CountContext.Provider value={[count, setCount]}>
       <div className='container'>
