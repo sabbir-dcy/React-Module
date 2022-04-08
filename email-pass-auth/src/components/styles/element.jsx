@@ -9,8 +9,8 @@ export const Styledinput = styled.input`
 `
 
 export const StyledContainer = styled.div`
-  display: flex;
-  flex-direction: column;
-  gap: 1rem;
-  align-items: center;
+  h5 {
+    inline-size:400px;
+    overflow-wrap: break-word;
+  }
 `
