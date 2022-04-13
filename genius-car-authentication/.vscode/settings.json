@@ -1,0 +1,8 @@
+{
+  "files.exclude": {
+    "**/App.test.js": true,
+    "**/logo.svg": true,
+    "**/reportWebVitals.js": true,
+    "**/setupTests.js": true,
+  }
+}
