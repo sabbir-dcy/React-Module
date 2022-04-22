@@ -1,6 +1,4 @@
 {
   "workbench.colorTheme": "Default Dark+",
-  "files.autoSave": "off",
-  "editor.fontFamily": "Consolas",
-  "editor.fontSize": 20
+  "files.autoSave": "off"
 }
