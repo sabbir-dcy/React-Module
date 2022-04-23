@@ -8,7 +8,7 @@ const AddService = () => {
     const url = `http://localhost:5000/services`
     fetch(url,{
       method:'POST',
-      headers:{
+      header:{
         'content-type':'application/json'
       },
       body:JSON.stringify(data)
